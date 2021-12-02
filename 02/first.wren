@@ -8,11 +8,10 @@ class First {
 
   solve {
     var position = Vector.new(0, 0)
-      for (i in _input) {
-        var instruction = Vector.instruction(i)
-          position = position + instruction
-      }
+    for (i in _input) {
+      var instruction = Vector.instruction(i)
+      position = position + instruction
+    }
     return position
   }
 }
-

@@ -5,15 +5,14 @@ class First {
 
   solve() {
     var last = 0
-      var result = 0
+    var result = 0
 
-      for (i in _input) {
-        if (i > last && last > 0 ) {
-          result = result + 1
-        }
-        last = i
+    for (i in _input) {
+      if (i > last && last > 0 ) {
+        result = result + 1
       }
+      last = i
+    }
     return result
   }
 }
-

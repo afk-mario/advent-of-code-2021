@@ -16,13 +16,12 @@ class Vector {
 
   construct instruction(instruction) {
     var direction = instruction[0]
-      var ammount = Num.fromString(instruction[1])
+    var ammount = Num.fromString(instruction[1])
 
-      var entry = DICT[direction] ? DICT[direction] : 0
-      _x = entry[0] * ammount
-      _y = entry[1] * ammount
+    var entry = DICT[direction] ? DICT[direction] : 0
+    _x = entry[0] * ammount
+    _y = entry[1] * ammount
   }
-
 
   + (other){
     return Vector.new(_x + other.x, _y + other.y)

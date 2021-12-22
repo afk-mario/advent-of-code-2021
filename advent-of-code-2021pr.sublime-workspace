@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"offse",
+				"offsetDrawX"
+			],
+			[
+				"setvi",
+				"setVisible"
+			],
+			[
+				"bloc",
+				"blocks"
+			],
+			[
+				"getRandom",
+				"getRandomVariant"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"pdc",
+					""
+				],
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"pdc",
+				""
+			]
+		],
+		[
+			[
+				[
+					"pdc",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"pdc",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"switch",
+				"Profiles: Switch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"profi",
+				"Profiles: Switch"
+			],
+			[
+				"profile",
+				"Profiles: Rename"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Help: Indexing Status"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"open",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"uithe",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"open ",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"git",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"forma",
+				"LuaFormat: Settings"
+			],
+			[
+				"build",
+				"Build With: pdc"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mariocarballozama/projects/advent/advent-of-code-2021"
+	],
+	"file_history":
+	[
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/debug/debug-keyboard.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/world/world.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/debug/debug.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/world/level.lua",
+		"/Users/mariocarballozama/Desktop/eyes.md",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/libraries/ldtk-loader.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/player/tongue.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/pieces/block-projectile.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/player/player.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/libraries/sprite-actor.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/constants.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/libraries/math.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/fx/fx-eye.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/sfx.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/fx/fx-eye-counter.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/pieces/piece.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/shop/merchant.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/fx/fx-block-destroyed.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/fx/fx-eye-destroyed.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/pieces/piece-manager.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/shop/door.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/pieces/eye.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/external/chrono.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/libraries/sprite-draw-offset.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/libraries/pico.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/main.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/init.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/screens/game.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/pieces/piece-utils.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/pullfrog2-bit.sublime-project",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/makefile",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/game/world/layer.lua",
+		"/Users/mariocarballozama/Library/Application Support/Sublime Text 3/Packages/LuaFormatter/LuaFormatter.sublime-settings",
+		"/Users/mariocarballozama/Library/Application Support/Sublime Text 3/Packages/User/LuaFormatter.sublime-settings",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/player/player.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/pieces/pieces.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/screens.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/pieces/piece.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/utilities/particles.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/world.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/pullfrog2-bit.pdx/assets/map/map_dither_square.pdi",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/pieces/block.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/.editorconfig",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/player.lua",
+		"/Users/mariocarballozama/Library/Application Support/iTerm2/Scripts/switch_automatic.py",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/pieces.lua",
+		"/Users/mariocarballozama/projects/games/pullfrog2-bit/Source/pico.lua",
+		"/Users/mariocarballozama/Desktop/picovistas.md",
+		"/Users/mariocarballozama/Downloads/openapi.json",
+		"/Users/mariocarballozama/projects/games/repos/spoopy.p8",
+		"/Users/mariocarballozama/Library/Application Support/pico-8/carts/baddies.p8",
+		"/Users/mariocarballozama/projects/games/unity-demo/.gitignore",
+		"/Users/mariocarballozama/Desktop/Rekka/README.txt",
+		"/Users/mariocarballozama/projects/games/repos/top-down/08-ai.p8",
+		"/Users/mariocarballozama/projects/games/repos/top-down/09-screens.p8",
+		"/Users/mariocarballozama/Library/Application Support/pico-8/carts/tareas/test.p8",
+		"/Users/mariocarballozama/projects/games/repos/pullfrog.p8",
+		"/Users/mariocarballozama/Downloads/Telegram Desktop/nginxgenerate.sh",
+		"/Users/mariocarballozama/projects/web/scalero-react/src/svg/logo.svg",
+		"/Users/mariocarballozama/projects/games/triangulo/Assets/_Scripts/Debug/DebugText.cs",
+		"/Users/mariocarballozama/projects/games/triangulo/Assets/_Scripts/Debug/DebugState.cs",
+		"/Users/mariocarballozama/Developer/PlaydateSDK/README.md",
+		"/Users/mariocarballozama/Developer/PlaydateSDK/bin/Playdate.novaextension/README.md",
+		"/Users/mariocarballozama/projects/games/triangulo/Assets/_Scripts/Board/BoardBuilder.cs"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 152.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 143.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "advent-of-code-2021pr.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"keybo",
+				"Source/game/debug/debug-keyboard.lua"
+			],
+			[
+				"level",
+				"Source/game/world/level.lua"
+			],
+			[
+				"debug",
+				"Source/game/debug/debug.lua"
+			],
+			[
+				"ldtk",
+				"Source/libraries/ldtk-loader.lua"
+			],
+			[
+				"debu",
+				"Source/game/debug/debug.lua"
+			],
+			[
+				"tongu",
+				"Source/game/player/tongue.lua"
+			],
+			[
+				"play",
+				"Source/game/player/player.lua"
+			],
+			[
+				"constan",
+				"Source/game/constants.lua"
+			],
+			[
+				"player",
+				"Source/game/player/player.lua"
+			],
+			[
+				"math",
+				"Source/libraries/math.lua"
+			],
+			[
+				"actor",
+				"Source/libraries/sprite-actor.lua"
+			],
+			[
+				"project",
+				"Source/game/pieces/block-projectile.lua"
+			],
+			[
+				"fx-eye-",
+				"Source/game/fx/fx-eye-counter.lua"
+			],
+			[
+				"sfx",
+				"Source/game/sfx.lua"
+			],
+			[
+				"sfx-e",
+				"Source/game/fx/fx-eye.lua"
+			],
+			[
+				"merchan",
+				"Source/game/shop/merchant.lua"
+			],
+			[
+				"fxblock",
+				"Source/game/fx/fx-block-destroyed.lua"
+			],
+			[
+				"piece.l",
+				"Source/game/pieces/piece.lua"
+			],
+			[
+				"manag",
+				"Source/game/pieces/piece-manager.lua"
+			],
+			[
+				"fx-eye",
+				"Source/game/fx/fx-eye.lua"
+			],
+			[
+				"eye fx",
+				"Source/game/fx/fx-eye-destroyed.lua"
+			],
+			[
+				"door",
+				"Source/game/shop/door.lua"
+			],
+			[
+				"eye",
+				"Source/game/pieces/eye.lua"
+			],
+			[
+				"deb",
+				"Source/game/debug/debug.lua"
+			],
+			[
+				"piece",
+				"Source/game/pieces/piece.lua"
+			],
+			[
+				"fx block des",
+				"Source/game/fx/fx-block-destroyed.lua"
+			],
+			[
+				"chrono",
+				"Source/external/chrono.lua"
+			],
+			[
+				"offset",
+				"Source/libraries/sprite-draw-offset.lua"
+			],
+			[
+				"pico",
+				"Source/libraries/pico.lua"
+			],
+			[
+				"piecemana",
+				"Source/game/pieces/piece-manager.lua"
+			],
+			[
+				"tong",
+				"Source/game/player/tongue.lua"
+			],
+			[
+				"fx ",
+				"Source/game/fx/fx-block-destroyed.lua"
+			],
+			[
+				"init",
+				"Source/init.lua"
+			],
+			[
+				"main",
+				"Source/main.lua"
+			],
+			[
+				"in it",
+				"Source/init.lua"
+			],
+			[
+				"game",
+				"Source/game/screens/game.lua"
+			],
+			[
+				"fx block",
+				"Source/game/fx/fx-block-destroyed.lua"
+			],
+			[
+				"ldtklo",
+				"Source/libraries/ldtk-loader.lua"
+			],
+			[
+				"piece-mana",
+				"Source/game/pieces/piece-manager.lua"
+			],
+			[
+				"game.",
+				"Source/game/screens/game.lua"
+			],
+			[
+				"world.lua",
+				"Source/game/world/world.lua"
+			],
+			[
+				"make",
+				"makefile"
+			],
+			[
+				"layer",
+				"Source/game/world/layer.lua"
+			],
+			[
+				"particle",
+				"Source/utilities/particles.lua"
+			],
+			[
+				"pieces.l",
+				"Source/pieces/pieces.lua"
+			],
+			[
+				"scree",
+				"Source/screens.lua"
+			],
+			[
+				"screen",
+				"Source/screens.lua"
+			],
+			[
+				"pieces",
+				"Source/pieces/pieces.lua"
+			],
+			[
+				"partile",
+				"Source/utilities/particles.lua"
+			],
+			[
+				"partic",
+				"Source/utilities/particles.lua"
+			],
+			[
+				"plater",
+				"pullfrog2-bit.pdx/assets/map/map_dither_square.pdi"
+			],
+			[
+				"block",
+				"Source/pieces/block.lua"
+			],
+			[
+				"editor",
+				".editorconfig"
+			],
+			[
+				"main.lua",
+				"Source/main.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
